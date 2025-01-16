@@ -1,5 +1,5 @@
 # desenvolve-introducao-web
 
-Projeto Desenvolve - Itabira
-Introdução à Programação Web
-PDITA247
+Projeto Desenvolve - Itabira,
+Introdução à Programação Web,
+PDITA247.
