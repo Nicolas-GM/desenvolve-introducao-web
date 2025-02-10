@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex 
+.eclare-luxury-1-hex { color: #942325; }
+.eclare-luxury-2-hex { color: #FFFFFF; }
+.eclare-luxury-3-hex { color: #945E23; }
+.eclare-luxury-4-hex { color: #232594; }
+.eclare-luxury-5-hex { color: #000000; }
+*/
+
+
+html{
+    background: #945E23;
+    color: #FFFFFF;
+}
