@@ -1,0 +1,74 @@
+/*
+Color Theme Swatches in Hex 
+.eclare-luxury-1-hex { color: #942325; }
+.eclare-luxury-2-hex { color: #FFFFFF; }
+.eclare-luxury-3-hex { color: #945E23; }
+.eclare-luxury-4-hex { color: #232594; }
+.eclare-luxury-5-hex { color: #000000; }
+*/
+
+
+html{
+    background: #945E23;
+    color: #FFFFFF;
+    font-size: 20PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-wrapper{
+    width: 80%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+#zen-intro{
+    height: 550px;
+    header{
+        background: #FFFFFF;
+        color: #945E23;
+        h1, h2{
+            display: inline-block;
+        }
+        h1{
+            margin-right: 1em;
+            margin-left: 1em;
+        }
+    }
+}
+
+p{text-indent: 1em;}
+
+h1, h2, h3{text-align: center;}
+
+h1{font-size: 1.8rem;}
+h2{font-size: 1.4rem;}
+h3{font-size: 1.2rem;}
+
+.summary{text-align: center;}
+
+.main{
+    p{
+        line-height: 1.5;
+    }
+    footer{
+        margin: 4%;
+        a{
+            border: solid 2px #ffffff;
+            padding: 0.5em;
+        }
+    }
+}
+
+abbr {font-variant: small-caps;}
+
+#design-archives{
+    display: none;
+}
+
+aside ul{
+    list-style-type: none;
+    li{
+        margin: 1em;
+        text-align: center;
+    }
+}
